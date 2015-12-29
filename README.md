@@ -1,2 +1,2 @@
-# Mapa-de-opinion-con-Python-y-Minecraft
-Programa experimental que utiliza el motor gráfico de Minecraft como visualizador de Tweets 
+# mapaOpinionEnMinecraft
+Experimentando con la representación de datos de Twitter en Minecraft 

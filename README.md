@@ -13,13 +13,13 @@ a donde van entrando los tweets publicados por distintos Periodicos de tirada na
  Coordenadas del campo:
 
  ```
-(0,0,0)                       (16,0,0)                        (32,0,0)              x			tiempo
-   +------------------------------+------------------------------+              +------->       	+-------> 
-   |                              |                              |              |			|
-   |                              |                              |            z |	     Periodicos	|
-   |                              |                              |              |			|	
-   |   Zona Positiva              |     Zona Negativa            |              |			|
-   |                              |                              |              v			v
+(0,0,0)                       (16,0,0)                        (32,0,0)     x	                tiempo
+   +------------------------------+------------------------------+       +------->       	+-------> 
+   |                              |                              |       |			|
+   |                              |                              |     z |	     Periodicos	|
+   |                              |                              |       |			|	
+   |   Zona Positiva              |     Zona Negativa            |       |			|
+   |                              |                              |       v			v
    |                              |                              |
    |                              |                              |
    +------------------------------+------------------------------+

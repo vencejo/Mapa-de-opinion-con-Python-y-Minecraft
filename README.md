@@ -12,6 +12,7 @@ a donde van entrando los tweets publicados por distintos Periodicos de tirada na
 
  Coordenadas del campo:
 
+ ```
 (0,0,0)                       (16,0,0)                        (32,0,0)              x			tiempo
    +------------------------------+------------------------------+              +------->       	+-------> 
    |                              |                              |              |			|
@@ -23,7 +24,7 @@ a donde van entrando los tweets publicados por distintos Periodicos de tirada na
    |                              |                              |
    +------------------------------+------------------------------+
 (0,0,16)                     (16,0,16)                         (32,0,16)  
-
+```
 
 Si rompemos un bloque que representa a un tweet este cambiará de sentimiento y pasara de estar en la zona positiva a la negativa,
 o viceversa, cada vez que se realiza esta acción el clasificador Bayesiano es entrenado.
